@@ -5,4 +5,6 @@
 применение сервисов для аналитики больших данных
 
 
+## Домашнее задание 1. Приложение Spark+k8s  [ссылка]([https://github.com/Niktyav/mipt_ds_masters/tree/master/Project_0](https://github.com/Niktyav/infraBigData/tree/main/hw1))  
+
 
