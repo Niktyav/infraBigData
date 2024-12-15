@@ -21,7 +21,7 @@
 
 1. Клонирование репозитория
 
-git clone https://github.com/Niktyav/infraBigData
+git clone https://github.com/Niktyav/infraBigData   
 cd infraBigData/hw2
 
 2. Запуск Kafka локально через Docker Compose
